@@ -12,6 +12,7 @@ export default function CalendarTab({ matches, FLAGS, GROUP_COLORS, updateScore,
   const byDate = useMemo(() => {
     const map = {};
     matches.forEach(m => {
+      if (m.date < TODAY) return;
       if (!map[m.date]) map[m.date] = [];
       map[m.date].push(m);
     });
