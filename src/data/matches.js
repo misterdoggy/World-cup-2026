@@ -122,11 +122,11 @@ export const KO_MATCHES = [
   { id: 89,  date: '2026-07-04', time: '23:00', round: '8e de finale', home: 'Paraguay',  away: 'France',             venue: 'Lincoln Financial Field',    city: 'Philadelphia',     tv: 'M6+beIN' },
   { id: 90,  date: '2026-07-04', time: '19:00', round: '8e de finale', home: 'Canada',    away: 'Maroc',              venue: 'NRG Stadium',                city: 'Houston',          tv: 'beIN' },
   { id: 91,  date: '2026-07-05', time: '22:00', round: '8e de finale', home: 'Brésil',    away: 'Norvège',            venue: 'MetLife Stadium',            city: 'East Rutherford',  tv: 'M6+beIN' },
-  { id: 92,  date: '2026-07-05', time: '02:00', round: '8e de finale', home: 'Mexique',   away: 'V80',                venue: 'Estadio Azteca',             city: 'Mexico City',      tv: 'beIN' },
-  { id: 93,  date: '2026-07-06', time: '21:00', round: '8e de finale', home: 'V83', away: 'V84',              venue: 'AT&T Stadium',               city: 'Arlington',        tv: 'M6+beIN' },
-  { id: 94,  date: '2026-07-06', time: '02:00', round: '8e de finale', home: 'V81', away: 'V82',              venue: 'Lumen Field',                city: 'Seattle',          tv: 'M6+beIN' },
-  { id: 95,  date: '2026-07-07', time: '18:00', round: '8e de finale', home: 'V86', away: 'V88',              venue: 'Mercedes-Benz Stadium',      city: 'Atlanta',          tv: 'M6+beIN' },
-  { id: 96,  date: '2026-07-07', time: '22:00', round: '8e de finale', home: 'V85', away: 'V87',              venue: 'BC Place',                   city: 'Vancouver',        tv: 'M6+beIN' },
+  { id: 92,  date: '2026-07-05', time: '02:00', round: '8e de finale', home: 'Mexique',    away: 'Angleterre',         venue: 'Estadio Azteca',             city: 'Mexico City',      tv: 'beIN' },
+  { id: 93,  date: '2026-07-06', time: '21:00', round: '8e de finale', home: 'Portugal',   away: 'Espagne',            venue: 'AT&T Stadium',               city: 'Arlington',        tv: 'M6+beIN' },
+  { id: 94,  date: '2026-07-06', time: '02:00', round: '8e de finale', home: 'États-Unis', away: 'Belgique',           venue: 'Lumen Field',                city: 'Seattle',          tv: 'M6+beIN' },
+  { id: 95,  date: '2026-07-07', time: '18:00', round: '8e de finale', home: 'V86',        away: 'V88',                venue: 'Mercedes-Benz Stadium',      city: 'Atlanta',          tv: 'M6+beIN' },
+  { id: 96,  date: '2026-07-07', time: '22:00', round: '8e de finale', home: 'Suisse',     away: 'V87',                venue: 'BC Place',                   city: 'Vancouver',        tv: 'beIN' },
 
   // ── QUARTS DE FINALE ─────────────────────────────────────────────────
   { id: 97,  date: '2026-07-09', time: '22:00', round: 'Quart de finale', home: 'V89', away: 'V90',           venue: 'Gillette Stadium',           city: 'Foxborough',       tv: 'M6+beIN' },
