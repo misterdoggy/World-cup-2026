@@ -125,14 +125,14 @@ export const KO_MATCHES = [
   { id: 92,  date: '2026-07-05', time: '02:00', round: '8e de finale', home: 'Mexique',    away: 'Angleterre',         venue: 'Estadio Azteca',             city: 'Mexico City',      tv: 'beIN' },
   { id: 93,  date: '2026-07-06', time: '21:00', round: '8e de finale', home: 'Portugal',   away: 'Espagne',            venue: 'AT&T Stadium',               city: 'Arlington',        tv: 'M6+beIN' },
   { id: 94,  date: '2026-07-06', time: '02:00', round: '8e de finale', home: 'États-Unis', away: 'Belgique',           venue: 'Lumen Field',                city: 'Seattle',          tv: 'M6+beIN' },
-  { id: 95,  date: '2026-07-07', time: '18:00', round: '8e de finale', home: 'V86',        away: 'V88',                venue: 'Mercedes-Benz Stadium',      city: 'Atlanta',          tv: 'M6+beIN' },
-  { id: 96,  date: '2026-07-07', time: '22:00', round: '8e de finale', home: 'Suisse',     away: 'V87',                venue: 'BC Place',                   city: 'Vancouver',        tv: 'beIN' },
+  { id: 95,  date: '2026-07-07', time: '18:00', round: '8e de finale', home: 'Argentine',  away: 'Égypte',             venue: 'Mercedes-Benz Stadium',      city: 'Atlanta',          tv: 'M6+beIN' },
+  { id: 96,  date: '2026-07-07', time: '22:00', round: '8e de finale', home: 'Suisse',     away: 'Colombie',           venue: 'BC Place',                   city: 'Vancouver',        tv: 'beIN' },
 
   // ── QUARTS DE FINALE ─────────────────────────────────────────────────
-  { id: 97,  date: '2026-07-09', time: '22:00', round: 'Quart de finale', home: 'V89', away: 'V90',           venue: 'Gillette Stadium',           city: 'Foxborough',       tv: 'M6+beIN' },
-  { id: 98,  date: '2026-07-10', time: '21:00', round: 'Quart de finale', home: 'V93', away: 'V94',           venue: 'SoFi Stadium',               city: 'Los Angeles',      tv: 'M6+beIN' },
-  { id: 99,  date: '2026-07-11', time: '23:00', round: 'Quart de finale', home: 'V91', away: 'V92',           venue: 'Hard Rock Stadium',          city: 'Miami Gardens',    tv: 'M6+beIN' },
-  { id: 100, date: '2026-07-11', time: '03:00', round: 'Quart de finale', home: 'V95', away: 'V96',           venue: 'Arrowhead Stadium',          city: 'Kansas City',      tv: 'M6+beIN' },
+  { id: 97,  date: '2026-07-09', time: '22:00', round: 'Quart de finale', home: 'France',    away: 'Maroc',         venue: 'Gillette Stadium',           city: 'Foxborough',       tv: 'M6+beIN' },
+  { id: 98,  date: '2026-07-10', time: '21:00', round: 'Quart de finale', home: 'V93',       away: 'V94',           venue: 'SoFi Stadium',               city: 'Los Angeles',      tv: 'M6+beIN' },
+  { id: 99,  date: '2026-07-11', time: '23:00', round: 'Quart de finale', home: 'Brésil',    away: 'Mexique',       venue: 'Hard Rock Stadium',          city: 'Miami Gardens',    tv: 'M6+beIN' },
+  { id: 100, date: '2026-07-11', time: '03:00', round: 'Quart de finale', home: 'V95',       away: 'V96',           venue: 'Arrowhead Stadium',          city: 'Kansas City',      tv: 'M6+beIN' },
 
   // ── DEMI-FINALES ──────────────────────────────────────────────────────
   { id: 101, date: '2026-07-14', time: '21:00', round: 'Demi-finale', home: 'V97',  away: 'V98',              venue: 'AT&T Stadium',               city: 'Arlington',        tv: 'M6+beIN' },
