@@ -130,9 +130,9 @@ export const KO_MATCHES = [
 
   // ── QUARTS DE FINALE ─────────────────────────────────────────────────
   { id: 97,  date: '2026-07-09', time: '22:00', round: 'Quart de finale', home: 'France',    away: 'Maroc',         venue: 'Gillette Stadium',           city: 'Foxborough',       tv: 'M6+beIN' },
-  { id: 98,  date: '2026-07-10', time: '21:00', round: 'Quart de finale', home: 'V93',       away: 'V94',           venue: 'SoFi Stadium',               city: 'Los Angeles',      tv: 'M6+beIN' },
+  { id: 98,  date: '2026-07-10', time: '21:00', round: 'Quart de finale', home: 'Espagne',   away: 'Belgique',      venue: 'SoFi Stadium',               city: 'Los Angeles',      tv: 'M6+beIN' },
   { id: 99,  date: '2026-07-11', time: '23:00', round: 'Quart de finale', home: 'Brésil',    away: 'Mexique',       venue: 'Hard Rock Stadium',          city: 'Miami Gardens',    tv: 'M6+beIN' },
-  { id: 100, date: '2026-07-11', time: '03:00', round: 'Quart de finale', home: 'V95',       away: 'V96',           venue: 'Arrowhead Stadium',          city: 'Kansas City',      tv: 'M6+beIN' },
+  { id: 100, date: '2026-07-11', time: '03:00', round: 'Quart de finale', home: 'Argentine', away: 'Colombie',      venue: 'Arrowhead Stadium',          city: 'Kansas City',      tv: 'M6+beIN' },
 
   // ── DEMI-FINALES ──────────────────────────────────────────────────────
   { id: 101, date: '2026-07-14', time: '21:00', round: 'Demi-finale', home: 'V97',  away: 'V98',              venue: 'AT&T Stadium',               city: 'Arlington',        tv: 'M6+beIN' },
